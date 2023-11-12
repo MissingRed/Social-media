@@ -13,7 +13,7 @@ import {
   ref,
   uploadBytes,
   getDownloadURL,
-} from "../lib/firebase-config";
+} from "../../lib/firebase-config";
 import Link from "next/link.js";
 
 const Home = () => {
